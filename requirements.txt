@@ -1,0 +1,2 @@
+getmonitorresolution
+numpy
